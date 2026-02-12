@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#this is only for testing
+#this is for information
+echo "hello world second script!"
