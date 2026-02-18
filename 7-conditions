@@ -1,0 +1,8 @@
+#!/bin/bash
+
+NUMBER=25 
+
+if [$NUMBERR -gt 20];then
+   echo "given number is : $NUMBER is grater than 20"
+
+fi
